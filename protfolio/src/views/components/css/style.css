@@ -1,0 +1,173 @@
+
+
+
+
+.phn a {
+  position: absolute;
+  float: left;
+  padding-left: 48px;
+  top: -6px;
+}
+
+.phn a {
+  color: #000;
+  font-weight: 600;
+}
+
+.phn .email {
+  color: #000;
+  font-weight: 10;
+  padding-left: -5px;
+  position: absolute;
+  top: 18px;
+}
+
+.icon_partwo img {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  top: 35px;
+}
+
+.icon_partwo .number p {
+  position: absolute;
+  float: left;
+  padding-left: 48px;
+  top: 69px;
+  color: #000;
+  font-weight: 600;
+}
+
+
+.icon_partthree .loaction p {
+  position: absolute;
+  padding-left: 48px;
+  top: 130px;
+  color: #000;
+  font-weight: 600;
+}
+
+.last input {
+  width: 100%;
+  padding: 4px;
+  margin-bottom: 18px;
+}
+
+.last input:hover {
+  border: 2px solid #4383b9;
+}
+
+.last textarea:hover {
+  border: 2px solid #4383b9;
+}
+
+.last textarea {
+  width: 100%;
+  height: 90px;
+  padding: 15px;
+}
+
+.submit {
+  border: 1px solid #a9d3ab;
+  background: #fff;
+  padding: 2px;
+}
+
+.submit:hover {
+  border: 2px solid #4383b9;
+}
+
+.error {
+  color: red;
+  font-style: italic;
+  font-size: 13px;
+}
+
+.ss a:hover {
+  transition: 0.18s;
+  background: #2919e3;
+}
+
+.email{
+  padding: 10px;
+}
+.email i{
+  margin: 10px;
+}
+.email p{
+  margin-left: 33px;
+
+  margin-top: -25px;
+}
+
+
+
+.Contacr_part{
+  background-color: #313552;
+}
+.ReactTypingEffect{
+  font-size: 25px;
+  color: #20c997;
+
+}
+.mt_70{
+
+  margin-top: 50px;
+}
+.mt_80{
+  margin-top: 80px;
+}
+.servic_cont h2{
+  color: #fff;
+}
+.paragraph p{
+  color: #fff;
+}
+.email Link{
+  color: #fff !important;
+}
+.email p{
+  color: #fff;
+}
+.email i{
+  color: #fff;
+}
+.phone i{
+  color: #fff;
+  background-color: #20c997;
+  margin-left: 5px;
+}
+.space{
+  margin-top: 100px;
+}
+
+.servic_cont h2 {
+  font-size: 25px;
+  
+  position: relative;
+  font-family: sans-serif;
+}
+
+.servic_cont h2::after {
+  position: absolute;
+  left: 49%;
+  width: 15%;
+  height: 3px;
+  top: -7px;
+  background: #e00426;
+  content: '';
+  content: '';
+}
+
+.servic_cont h2::before {
+  position: absolute;
+  right: 51%;
+  width: 15%;
+  height: 3px;
+  top: 35px;
+  background: #e00426;
+  content: '';
+  content: '';
+}
+
+

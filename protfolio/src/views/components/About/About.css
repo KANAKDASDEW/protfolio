@@ -1,0 +1,43 @@
+#about-conatiner {
+    margin-top: 0px;
+    padding-bottom: 100px;
+    background-color: #313552;
+  }
+  .about-contant-conatiner {
+    padding-top: 120px;
+  }
+  .about-contant-conatiner p {
+    color: rgba(255, 255, 255, 0.582);
+  }
+  .about-img-container img {
+    border-radius: 50%;
+    background-color: #64ffdb8a;
+  }
+  
+  .about-contant h1 span {
+    color: #64ffda;
+  }
+  .set-skill-container {
+    display: flex;
+    padding: 10px 30px;
+    flex-wrap: wrap;
+  }
+  .skill {
+    padding: 5px 7px;
+    background-color: rgba(7, 7, 7, 0.26);
+    margin: 5px;
+    color: rgba(240, 255, 255, 0.603);
+    border-radius: 10px;
+  }
+  .about-img-wrapper-left {
+    margin-top: 70px;
+  }
+ 
+  img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    
+  }
+  
+  

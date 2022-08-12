@@ -1,0 +1,37 @@
+.card-container {
+  background-color: #424872f8;
+  color: aliceblue;
+  overflow: hidden;
+  min-height: 567px;
+}
+.card-container:hover {
+  background-color: transparent;
+  color: aliceblue;
+  overflow: hidden;
+  /* min-height: 460px; */
+  border: none;
+  transition: 0.7s ease-in-out;
+  -webkit-box-shadow: 5px 5px 15px 2px #000000;
+  box-shadow: 5px 5px 15px 2px #000000;
+}
+.card-container img {
+  cursor: pointer;
+  transition: 0.6s ease-in-out;
+  max-height: 181px;
+}
+.card-container img:hover {
+  transform: scale(1.1);
+}
+.icon-Container {
+  padding: 5px 10px;
+}
+.icon-Container svg {
+  margin-right: 30px;
+  font-size: 1rem;
+  cursor: pointer;
+  color: #64ffda;
+}
+.technology-useses {
+  display: flex;
+  flex-wrap: wrap;
+}
